@@ -10,7 +10,7 @@
 
 <br>
 
-I'm a 3rd-year B.Tech student in **Electronics & Communication Engineering** at **Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat**, working at the intersection of deep learning and low-level vision. My research focuses on building models that solve visual perception problems conventional methods struggle with — depth estimation on reflective surfaces, shadow removal from natural images, and controllable image rendering.
+I'm a 3rd-year B.Tech student in **Electronics & Communication Engineering** at **Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat**, working at the intersection of deep learning and low-level vision. My research focuses on building models that solve visual perception problems conventional methods struggle with depth estimation, computer vision, explainable AI.
 
 <br>
 
