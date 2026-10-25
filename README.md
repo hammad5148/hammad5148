@@ -6,7 +6,6 @@
 <!-- Sleek Monochrome Socials & Academic Profiles -->
 <p>
   <a href="https://www.linkedin.com/in/hammad-mohammad-svnit/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://arxiv.org/abs/2605.05510"><img src="https://img.shields.io/badge/arXiv-000000?style=for-the-badge&logo=arxiv&logoColor=B31B1B" alt="arXiv" /></a>
   <a href="https://scholar.google.com/citations?hl=en&user=VVyYBUIAAAAJ&view_op=list_works"><img src="https://img.shields.io/badge/Scholar-000000?style=for-the-badge&logo=google-scholar&logoColor=4285F4" alt="Google Scholar" /></a>
   <a href="https://www.researchgate.net/profile/Hammad-Mohammad"><img src="https://img.shields.io/badge/ResearchGate-000000?style=for-the-badge&logo=researchgate&logoColor=00CCBB" alt="ResearchGate" /></a>
 </p>
